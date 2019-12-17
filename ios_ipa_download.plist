@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>http://103.72.47.134:8888/ios/course/2019-12-17-15-25-53_4.1.5_9921_Release_enterprise_b8116e05b196f70b94b8ed702f2a9e55f44e45b5/YoudaoCourse-b8116e05b196f70b94b8ed702f2a9e55f44e45b5.ipa</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<false/>
+					<key>url</key>
+					<string></string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<false/>
+					<key>url</key>
+					<string>安装过程显示图片</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.youdao.xuetang.test</string>
+				<key>bundle-version</key>
+				<string>1.0</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>有道精品课Pro</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
